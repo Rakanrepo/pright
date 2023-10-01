@@ -1,5 +1,5 @@
 <p>
-  <img src="buckets.motabaa.com/repologo.png" />
+  <img src="http://buckets.motabaa.com/repologo.png" />
 
 </p>
 
